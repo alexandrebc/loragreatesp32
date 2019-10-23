@@ -41,7 +41,7 @@ Rede LoRa
 - Bibliotecas
     - [OLED](https://github.com/ThingPulse/esp8266-oled-ssd1306)
     - [LoRa](https://github.com/sandeepmistry/arduino-LoRa)
-    - [LoRaWaN]()
+    - [LoRaWaN](LoRa-GREat-master.zip)
         - Biblioteca modificada para funcionamento com as configurações utilizadas no Dragino LG01-P do GREat
         - Para utilizar a biblioteca com a TTGO a pinagem é a seguinte
         - [Referência](https://github.com/thomaslaurenson/Dragino_LoRaShield_Node_AU915)
